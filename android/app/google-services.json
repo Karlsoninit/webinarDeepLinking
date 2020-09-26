@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "35596134110",
+    "firebase_url": "https://webinardeeplinking.firebaseio.com",
+    "project_id": "webinardeeplinking",
+    "storage_bucket": "webinardeeplinking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35596134110:android:883df915c630080949844f",
+        "android_client_info": {
+          "package_name": "com.webinardeeplinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35596134110-idoe5conncrfk07m6jujf3bvso7l6sdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDde1tP3j9jSy2fUl6UfvRvox1z8jufAsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35596134110-idoe5conncrfk07m6jujf3bvso7l6sdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
